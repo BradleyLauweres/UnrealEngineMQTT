@@ -1,0 +1,53 @@
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Development\MqttUtilities\Definitions.MqttUtilities.h
+C:/Users/Bradley/Desktop/MQTTTEST/HostProject/Plugins/MqttUtilities/Source/MqttUtilities/Private/MqttClientBase.cpp
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Source\MqttUtilities\Private\MqttClientBase.h
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Source\MqttUtilities\Public\Interface/MqttClientInterface.h
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Source\MqttUtilities\Public\Entities/MqttMessage.h
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Inc\MqttUtilities\MqttMessage.generated.h
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Source\MqttUtilities\Public\Entities/MqttConnectionData.h
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Inc\MqttUtilities\MqttConnectionData.generated.h
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Source\MqttUtilities\Public\Entities/MqttClientConfig.h
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Inc\MqttUtilities\MqttClientConfig.generated.h
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Inc\MqttUtilities\MqttClientInterface.generated.h
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Inc\MqttUtilities\MqttClientBase.generated.h
+C:/Users/Bradley/Desktop/MQTTTEST/HostProject/Plugins/MqttUtilities/Source/MqttUtilities/Private/MqttUtilitiesBPL.cpp
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Source\MqttUtilities\Public\MqttUtilitiesBPL.h
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Inc\MqttUtilities\MqttUtilitiesBPL.generated.h
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Source\MqttUtilities\Private\Windows/MqttClient.h
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Inc\MqttUtilities\MqttClient.generated.h
+C:/Users/Bradley/Desktop/MQTTTEST/HostProject/Plugins/MqttUtilities/Source/MqttUtilities/Private/MqttUtilitiesModule.cpp
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Source\MqttUtilities\Public\IMqttUtilitiesModule.h
+D:\Unreal\UE_4.26\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+D:\Unreal\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+D:\Unreal\UE_4.26\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+D:\Unreal\UE_4.26\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+D:\Unreal\UE_4.26\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+D:\Unreal\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+C:/Users/Bradley/Desktop/MQTTTEST/HostProject/Plugins/MqttUtilities/Source/MqttUtilities/Private/Windows/MqttClient.cpp
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Source\MqttUtilities\Private\Windows\MqttRunnable.h
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Source\MqttUtilities\Private\Windows\MqttTask.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE\queue
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE\algorithm
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE\xmemory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE\limits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE\cfloat
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE\cwchar
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE\cstdio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE\isa_availability.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE\xutility
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE\__msvc_iter_core.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE\utility
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE\deque
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE\vector
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE\string
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE\xstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE\iosfwd
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE\cctype
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Source\MqttUtilities\Private\Windows\Utils/StringUtils.h
+C:/Users/Bradley/Desktop/MQTTTEST/HostProject/Plugins/MqttUtilities/Source/MqttUtilities/Private/Windows/MqttClientImpl.cpp
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Source\MqttUtilities\Private\Windows\MqttClientImpl.h
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Source\ThirdParty\Win64\mosquittopp\includes\mosquittopp.h
+C:\Users\Bradley\Desktop\MQTTTEST\HostProject\Plugins\MqttUtilities\Source\ThirdParty\Win64\mosquittopp\includes\../../mosquitto/includes/mosquitto.h
+C:/Users/Bradley/Desktop/MQTTTEST/HostProject/Plugins/MqttUtilities/Source/MqttUtilities/Private/Windows/MqttRunnable.cpp
+C:/Users/Bradley/Desktop/MQTTTEST/HostProject/Plugins/MqttUtilities/Source/MqttUtilities/Private/Windows/MqttTask.cpp
+C:/Users/Bradley/Desktop/MQTTTEST/HostProject/Plugins/MqttUtilities/Source/MqttUtilities/Private/Windows/Utils/StringUtils.cpp
